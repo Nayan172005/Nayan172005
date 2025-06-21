@@ -1,23 +1,27 @@
-<!-- Top Banner Tagline -->
+<!-- Full-width Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CODE%20•%20LEARN%20•%20BUILD%20•%20REPEAT-F9D923?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/CODE%20•%20LEARN%20•%20BUILD%20•%20REPEAT-F9D923?style=for-the-badge&logo=github&logoColor=black" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nayan Sharma</h1>
 
-<p align="center">
-  <i>CSE Undergrad @ VIT Vellore | Full-Stack Developer & AI/ML Enthusiast 🚀</i>
-</p>
-
 ---
 
-### 🧠 About Me
+<!-- Side-by-Side About + GIF -->
+<img src="./assets/night-code.gif" align="right" width="250px" style="margin-left: 20px;" />
+<h3>🧠 About Me</h3>
 
-- 🎓 Computer Science undergrad passionate about solving real-world problems  
-- 🤖 Exploring AI/ML, Generative AI, and Computer Vision  
-- 💻 Building intelligent systems, full-stack applications, and hardware-integrated projects  
-- ⚙️ Always learning — from algorithms to architecture  
-- 🌍 Interested in software with impact, AI safety, and tech for good
+<div >
+
+<ul>
+  <li>🎓 CSE undergrad @ VIT Vellore</li>
+  <li>🤖 Exploring AI/ML, Generative AI, Computer Vision</li>
+  <li>💻 Building intelligent systems & real-world applications</li>
+  <li>🛠️ Skilled in Python, React, MongoDB, Node.js, Arduino</li>
+  <li>🌍 Passionate about impactful software & tech for good</li>
+</ul>
+
+</div>
 
 ---
 
@@ -35,7 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nayan172005&show_icons=true&theme=radical" width="48%" />
@@ -44,15 +48,7 @@
 
 ---
 
-### 👨‍💻 Late Night Coding Mode: ON
-
-<p align="center">
-  <img src="./assets/night-code.gif" width="280" />
-</p>
-
----
-
-### 🌐 Let's Connect
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:nayan.sharma172005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -62,4 +58,4 @@
 
 ---
 
-<p align="center"><i>“Stay curious. Keep building. Let your work speak.”</i></p>
+<p align="center"><i>“💻 Fueled by code, caffeine, and curiosity ☕”</i></p>
