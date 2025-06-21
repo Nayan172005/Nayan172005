@@ -57,8 +57,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Nayan172005">
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" width="40" height="40" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" style="filter: invert(1);" />
   </a>
 </p>
 
