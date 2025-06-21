@@ -57,7 +57,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Nayan172005">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" width="40" height="40" />
   </a>
 </p>
 
