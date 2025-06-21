@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Nayan Sharma</h1>
 
 <!-- Side-by-Side About + GIF -->
-<img src="./assets/night-code.gif" align="right" width="360px" style="margin-left: 20px;" />
+<img src="./assets/night-code.gif" align="right" width="350px" style="margin-left: 20px;" />
 <h3>🧠 About Me</h3>
 
 <ul>
