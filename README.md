@@ -8,7 +8,7 @@
 ---
 
 <!-- Side-by-Side About + GIF -->
-<img src="./assets/night-code.gif" align="right" width="250px" style="margin-left: 20px;" />
+<img src="./assets/night-code.gif" align="right" width="230px" style="margin-left: 20px;" />
 <h3>🧠 About Me</h3>
 
 <div >
