@@ -37,10 +37,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nayan172005&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan172005&layout=compact&theme=radical" width="40%" />
-  <br><br>
-<!--   <img src="https://github-readme-streak-stats.demolab.com?user=Nayan172005&theme=radical&hide_border=false" width="88%" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan172005&theme=radical" width="88%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan172005&layout=compact&theme=radical" width="36.5%" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan172005&theme=radical" width="48%" />
 
 </p>
 
