@@ -1,6 +1,6 @@
 <!-- Full-width Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CODE%20•%20LEARN%20•%20BUILD%20•%20REPEAT-F9D923?style=for-the-badge&logo=github&logoColor=black" width="100%" />
+  <img src="./assets/banner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nayan Sharma</h1>
