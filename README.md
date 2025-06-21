@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nayan172005&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan172005&layout=compact&theme=radical" width="36.5%" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan172005&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan172005&theme=radical" width="49%" />
 
 </p>
 
@@ -52,7 +52,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/Nayan">
+  <a href="https://www.linkedin.com/in/nayan172005/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
