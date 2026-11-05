@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="360" viewBox="0 0 700 360" role="img" aria-labelledby="title desc">
+  <title id="title">about-me.js</title>
+  <desc id="desc">A JavaScript snippet styled like Visual Studio Code in a dark theme.</desc>
+  <rect x="1" y="1" width="698" height="358" rx="13" fill="#1e1e1e" stroke="#3c3c3c" stroke-width="2"/>
+  <path d="M1 14 Q1 1 14 1 H686 Q699 1 699 14 V52 H1 Z" fill="#252526"/>
+  <circle cx="24" cy="26" r="7" fill="#ff5f57"/>
+  <circle cx="48" cy="26" r="7" fill="#febc2e"/>
+  <circle cx="72" cy="26" r="7" fill="#28c840"/>
+  <path d="M105 52 V1 H111 V52 Z" fill="#007acc"/>
+  <text x="132" y="33" fill="#d4d4d4" font-family="Segoe UI, Arial, sans-serif" font-size="18">about-me.js</text>
+  <text x="28" y="105" fill="#858585" font-family="Consolas, 'Courier New', monospace" font-size="19">1</text>
+  <text x="28" y="151" fill="#858585" font-family="Consolas, 'Courier New', monospace" font-size="19">2</text>
+  <text x="28" y="197" fill="#858585" font-family="Consolas, 'Courier New', monospace" font-size="19">3</text>
+  <text x="28" y="243" fill="#858585" font-family="Consolas, 'Courier New', monospace" font-size="19">4</text>
+  <text x="28" y="289" fill="#858585" font-family="Consolas, 'Courier New', monospace" font-size="19">5</text>
+  <text x="28" y="335" fill="#858585" font-family="Consolas, 'Courier New', monospace" font-size="19">6</text>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="25">
+    <text x="70" y="105" fill="#6a9955">// No final version.</text>
+    <text x="70" y="151"><tspan fill="#569cd6">const</tspan><tspan fill="#9cdcfe"> me </tspan><tspan fill="#d4d4d4">= </tspan><tspan fill="#dcdcaa">{</tspan></text>
+    <text x="70" y="197"><tspan fill="#d4d4d4">    </tspan><tspan fill="#9cdcfe">curiosity</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#b5cea8">Infinity</tspan><tspan fill="#d4d4d4">,</tspan></text>
+    <text x="70" y="243"><tspan fill="#d4d4d4">    </tspan><tspan fill="#9cdcfe">learning</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">"ongoing"</tspan><tspan fill="#d4d4d4">,</tspan></text>
+    <text x="70" y="289"><tspan fill="#d4d4d4">    </tspan><tspan fill="#9cdcfe">limits</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#569cd6">null</tspan></text>
+    <text x="70" y="335" fill="#dcdcaa">};</text>
+  </g>
+</svg>

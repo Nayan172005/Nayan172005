@@ -1,39 +1,32 @@
-
 <!-- Full-width Banner -->
 <p align="center">
-  <img src="./assets/banner.png" width="100%" />
+  <img src="./assets/banner.png" width="100%" alt="Nayan Sharma — profile banner" />
 </p>
 
 <h1 align="center">Hi, I'm Nayan Sharma</h1>
 
-<!-- Code GIF + Personal Quote -->
-<img src="./assets/night-code.gif" align="right" width="350px" />
+<!-- VS Code-style intro panel + coding GIF -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td width="58%" valign="middle" align="center">
+      <img src="./assets/about-me-code.svg" width="96%" alt="VS Code-style JavaScript snippet: curiosity Infinity, learning ongoing, limits null" />
+    </td>
+    <td width="42%" valign="middle" align="center">
+      <img src="./assets/night-code.gif" width="96%" alt="A developer coding at a desk" />
+    </td>
+  </tr>
+</table>
 
-<h3></h3>
+<p align="center"><em>Somewhere between curiosity and creation, great things begin.</em></p>
 
-<h2 align="left">
-  <em>
-    // No final version.
-    <br>
-    const me = {
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;curiosity: Infinity,
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;learning: "ongoing",
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;limits: null
-    <br>
-    };
-  </em>
-</h2>
+---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nodejs,express,mongodb&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nodejs,express,mongodb&perline=8" alt="C++, Java, Python, JavaScript, React, Node.js, Express, MongoDB" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,aws,git,github,mysql,vscode,postman&perline=8" />
-  <br><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,aws,git,github,mysql,vscode,postman&perline=8" alt="TensorFlow, scikit-learn, AWS, Git, GitHub, MySQL, VS Code, Postman" />
 </p>
 
 ---
@@ -41,10 +34,10 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" width="48%" />
-  <img src="./profile/top-langs.svg" width="36.5%" />
+  <img src="./profile/stats.svg" width="48%" alt="GitHub statistics" />
+  <img src="./profile/top-langs.svg" width="36.5%" alt="Most used programming languages" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=Nayan172005&theme=great-gatsby" width="49%" />
+  <img src="./profile/streak.svg" width="49%" alt="GitHub contribution streak" />
 </p>
 
 ---
@@ -53,15 +46,15 @@
 
 <p align="center">
   <a href="mailto:nayan.sharma172005@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nayan172005/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Nayan172005">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
 
