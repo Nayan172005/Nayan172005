@@ -6,18 +6,17 @@
 <h1 align="center">Hi, I'm Nayan Sharma</h1>
 
 <!-- VS Code-style intro panel + coding GIF -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td width="58%" valign="middle" align="center">
-      <img src="./assets/about-me-code.svg" width="96%" alt="VS Code-style JavaScript snippet: curiosity Infinity, learning ongoing, limits null" />
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <img src="./assets/night-code.gif" width="96%" alt="A developer coding at a desk" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/about-me-code.svg" width="54%" alt="About me code" />
+  <img src="./assets/night-code.gif" width="40%" alt="Developer coding at a desk" />
+</p>
 
-<p align="center"><em>Somewhere between curiosity and creation, great things begin.</em></p>
+<p align="center">
+  <i>
+    "Somewhere between curiosity and creation,<br>
+    great things begin."
+  </i>
+</p>
 
 ---
 
@@ -60,9 +59,4 @@
 
 ---
 
-<p align="center">
-  <i>
-    "Somewhere between curiosity and creation,<br>
-    great things begin."
-  </i>
-</p>
+<p align="center"><i>“Fueled by code, caffeine, and curiosity”</i></p>
