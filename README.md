@@ -7,7 +7,7 @@
 
 <!-- VS Code-style intro panel + coding GIF -->
 <p align="center">
-  <img src="./assets/about-me-code.svg" width="54%" alt="About me code" />
+  <img src="./assets/about-me-code.svg" width="58%" alt="About me code" />
   <img src="./assets/night-code.gif" width="40%" alt="Developer coding at a desk" />
 </p>
 
@@ -34,9 +34,10 @@
 
 <p align="center">
   <img src="./profile/stats.svg" width="48%" alt="GitHub statistics" />
-  <img src="./profile/top-langs.svg" width="36.5%" alt="Most used programming languages" />
+  <img src="./profile/top-langs.svg" width="32.5%" alt="Most used programming languages" />
   <br>
-  <img src="./profile/streak.svg" width="49%" alt="GitHub contribution streak" />
+  <!-- <img src="./profile/streak.svg" width="49%" alt="GitHub contribution streak" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan172005&theme=great-gatsby" width="49%" alt="GitHub contribution streak"/>
 </p>
 
 ---
